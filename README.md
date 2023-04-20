@@ -1,4 +1,4 @@
-# Welcome to the StarRating wiki!
+# Source npm
 
 1. use npm :-  **ng add @ng-bootstrap/ng-bootstrap** for add ng bootstraps
 
