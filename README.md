@@ -6,6 +6,8 @@
 
 3. in html file **<ngb-rating [max]="5" formControlName="starRating" class="stars"></ngb-rating>** 
 
+***
+
 
 # StarRating
 
