@@ -1,3 +1,12 @@
+# Welcome to the StarRating wiki!
+
+1. use npm :-  **ng add @ng-bootstrap/ng-bootstrap** for add ng bootstraps
+
+2. import **NgbModule** in module.ts
+
+3. in html file **<ngb-rating [max]="5" formControlName="starRating" class="stars"></ngb-rating>** 
+
+
 # StarRating
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
